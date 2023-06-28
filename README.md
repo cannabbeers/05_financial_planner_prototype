@@ -16,7 +16,9 @@ You’ve decided to start `UCB Fintech Consultants, NPO` that focuses on project
 
 
 ----
+SPDR S&P 500 ETF Trust (ticker: SPY) 
 
+iShares Core US Aggregate Bond ETF (ticker: AGG)
 
 
 ## Technologies
