@@ -22,10 +22,10 @@ To make this all safe, we begin by adding a link to the 'legal disclaimer' that 
 ----
 
 ### Member Holdings
-[SPDR S&P 500 ETF Trust (ticker: SPY)](https://finance.yahoo.com/quote/SPY) 
-[iShares Core US Aggregate Bond ETF (ticker: AGG)](https://finance.yahoo.com/quote/AGG)
-[Bitcoin](https://finance.yahoo.com/quote/BTC-USD)
-[Ethereum](https://finance.yahoo.com/quote/ETH-USD?p=ETH-USD&.tsrc=fin-srch)
++ [SPDR S&P 500 ETF Trust (ticker: SPY)](https://finance.yahoo.com/quote/SPY) 
++ [iShares Core US Aggregate Bond ETF (ticker: AGG)](https://finance.yahoo.com/quote/AGG)
++ [Bitcoin](https://finance.yahoo.com/quote/BTC-USD)
++ [Ethereum](https://finance.yahoo.com/quote/ETH-USD?p=ETH-USD&.tsrc=fin-srch)
 
 
 ## Technologies
