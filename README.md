@@ -16,8 +16,8 @@ To make this all safe, we begin by adding a link to the 'legal disclaimer' that 
      ![Pie Chart of Member Asset Allocation](/Images/portfolio_composition.png)
 2) A financial planner for emergencies includes multiple ways to check prices for holdings in 'markdown' code and another for retirement shows 2 main scenarios that could be modified and expanded after feedback from CTO received.
 
-    ![Monte Carlo 30yr Simulation - Distribution](\Images\MC_hist_30.png)
-    ![Monte Carlo 10yr Simulation - Distribution](\Images\MC_hist_10.png)
+    ![Monte Carlo 30yr Simulation - Distribution](/Images/MC_hist_30.png)
+    ![Monte Carlo 10yr Simulation - Distribution](/Images/MC_hist_10.png)
 
 ----
 
