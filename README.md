@@ -89,25 +89,6 @@ It will call the `MCForecastTools.py` program to import `MCSimulation` which is 
 
 You can run through the program once ready to proceed from here.
 
----
-## Visualizations
-
-
-
-
----
-
-## Usage
-
-
-
-Navigate inside the repo '05_financial_planner_prototype'
-Enter following code in GitBash to launch `jupyter lab`: 
-
-```
-    $ jupyter lab --ContentsManager.allow_hidden=True
-   
-```
 ## Contributors
 
 Mark Beers: 
