@@ -67,15 +67,7 @@ Enter following code in GitBash to launch `jupyter lab`:
    
 ```
 
-In 'Starter Code' you find a file called 'SAMPLE.env'  and need to `rename**` it to **'.env'**. 
 
-The file will then become hidden in `File Browser` to left of main window.  
-
-When the cell instruction to **'# Load the environment variables from the .env file'**
-
-you will call the function:
-
-    `load_dotenv()`
     
 ---
 
